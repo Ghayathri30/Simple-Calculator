@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+}
+
+.container{
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+        height: 100vh;
+    
+}
+
+#display{
+    margin: 2px;
+    width: 180px;
+    height: 42px;
+    display: block;
+    padding: 5px 5px 5px 5px;
+    font-size: medium;
+    
+    
+}
+
+.button{
+    margin: 2px;
+    width: 42px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+.button1{
+    background-color: red;
+    margin: 2px;
+    width: 42px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+}
